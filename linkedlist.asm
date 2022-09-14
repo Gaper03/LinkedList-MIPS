@@ -4,6 +4,7 @@
 # Gabriel Perao (gabrielperao)
 # Raphael Leveque (raphaelleveque)
 # Joao Pedro Nunes (joaoduarteN)
+# Pedro Batista (pedrodbatista)
 # ==========================================
 
     .data
